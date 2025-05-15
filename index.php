@@ -5,5 +5,6 @@
 <?php
 
 echo "<h1>Hi</h1>";
+echo "<p>That is red?</p>";
 
 ?>
